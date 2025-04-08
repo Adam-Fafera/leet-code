@@ -1,2 +1,2 @@
-## Leet Code
-# Repository for all the leet code problems i solved
+# Leet Code
+## Repository for all the leet code problems i solved
