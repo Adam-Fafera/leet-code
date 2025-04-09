@@ -13,7 +13,7 @@
 ### Arrays & Hashing
 ✅Contains Duplicate  
 ✅Valid Anagram  
-⬛Two Sum  
+⏸️Two Sum  
 ⬛Group Anagrams  
 ⬛Top K Frequent Elements   
 ⬛Encode and Decode Strings  
